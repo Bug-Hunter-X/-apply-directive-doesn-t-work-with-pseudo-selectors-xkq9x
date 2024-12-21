@@ -1,0 +1,1 @@
+Instead of using the @apply directive with pseudo-selectors, apply the styles directly in your component styles or create separate utility classes for each state. For example, instead of `@apply hover:bg-blue-500`, create classes like `hover:bg-blue-500` and apply them directly or use JavaScript to add/remove them on hover.
